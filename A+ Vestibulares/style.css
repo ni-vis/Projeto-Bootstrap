@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.make{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding-top: 5%;
+}
+.maketext{
+    padding: 5%;
+}
+.maketext h2{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+}
+.maketext h5{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+
+}
+.maketext p{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+}
+footer {
+    margin-top: auto;
+}
