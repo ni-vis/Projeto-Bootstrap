@@ -1,0 +1,64 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    color:#283b2d;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding: 3%;
+    text-shadow: 2px 2px 4px #2a522aaa;
+}
+p{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+}
+.h22{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding: 1%;
+    text-shadow: 2px 2px 4px #2a522aaa;
+
+}
+.botoes{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding-bottom: 5%;
+}
+.make{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding-top: 5%;
+}
+.make img{
+    height: 250px;
+}
+.maketext{
+    padding: 4%;
+}
+.maketext h2{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+}
+.maketext h5{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+
+}
+footer {
+    margin-top: auto;
+}
